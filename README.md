@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### I'm Dmitry Sukhorukov aka dimons8218
+### Hi there! I'm Dmitry Sukhorukov aka dimons8218 👋
 
 Всем привет! Меня зовут Дмитрий Сухоруков и я начинаю свой путь в Data Science.
 
